@@ -1,9 +1,10 @@
 using System.Collections.Generic;
-using System.Linq;
 using UnityEngine;
 
 public class Manager : MonoBehaviour
 {
+    [SerializeField] private VideoController videoController;
+
     [SerializeField] private Map map;
 
     [SerializeField] private GameObject[] blockPrefabs = new GameObject[0];
@@ -29,9 +30,20 @@ public class Manager : MonoBehaviour
     [SerializeField] private float inputRepeatFirstDuration = 0f;
     [SerializeField] private float inputRepeatDefaultDuration = 0f;
 
+    [SerializeField] private Transform startPanel;
+
+    [SerializeField] private UnityEngine.UI.Button startButton;
+    [SerializeField] private UnityEngine.UI.Image startButtonImage;
+
+    [SerializeField] private Color startButtonColor1;
+    [SerializeField] private Color startButtonColor2;
+    [SerializeField] private float startButtonColorDuration;
+
     private enum Phase
     {
         初期化,
+        スタート待ち,
+
         ブロック出現,
         ブロック落下,
         ブロック着地,
@@ -117,11 +129,24 @@ public class Manager : MonoBehaviour
         switch (phase)
         {
             case Phase.初期化:
-                // SetPhase(Phase.ブロック出現);
-                SetPhase(Phase.テストパターン_初期化);
                 blocks = new Block[map.Width, map.Height];
 
                 pointText.text = "0";
+
+                startButton.onClick.AddListener(() =>
+                {
+                    startPanel.gameObject.SetActive(false);
+
+                    videoController.Play();
+
+                    SetPhase(Phase.ブロック出現);
+                    // SetPhase(Phase.テストパターン_初期化);
+                });
+                SetPhase(Phase.スタート待ち);
+                break;
+
+            case Phase.スタート待ち:
+                startButtonImage.color = Color.Lerp(startButtonColor1, startButtonColor2, (Mathf.Cos(phaseElapsed * startButtonColorDuration * 2 * Mathf.PI) + 1f) / 2f);
                 break;
 
             case Phase.ブロック出現:

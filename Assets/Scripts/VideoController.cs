@@ -5,7 +5,11 @@ public class VideoController : MonoBehaviour
 {
     [SerializeField] private double loopPoint;
 
+    private bool isPlaying = false;
+
     private VideoPlayer videoPlayer;
+
+    private float updateInterval = 1f;
 
     private void Start()
     {
@@ -13,10 +17,23 @@ public class VideoController : MonoBehaviour
         videoPlayer.isLooping = false;
     }
 
+    public void Play()
+    {
+        videoPlayer.Play();
+        videoPlayer.time = 0;
+        isPlaying = true;
+    }
+
     private void Update()
     {
-        if (!videoPlayer.isPlaying)
+        if (isPlaying && !videoPlayer.isPlaying)
         {
+            if (updateInterval > 0)
+            {
+                updateInterval -= Time.deltaTime;
+                return;
+            }
+
             videoPlayer.Play();
             videoPlayer.time = loopPoint;
         }
