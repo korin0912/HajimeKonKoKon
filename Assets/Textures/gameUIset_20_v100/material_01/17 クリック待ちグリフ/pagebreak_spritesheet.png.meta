@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: a5cb3c9975af3ac4fbe11d415fde914c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8459470647081358638
+    second: pagebreak_spritesheet_0
+  - first:
+      213: -2784614375903986426
+    second: pagebreak_spritesheet_1
+  - first:
+      213: -6786189832825134011
+    second: pagebreak_spritesheet_2
+  - first:
+      213: 3790458625742102300
+    second: pagebreak_spritesheet_3
+  - first:
+      213: 7215422720959562293
+    second: pagebreak_spritesheet_4
+  - first:
+      213: 7153639934607205452
+    second: pagebreak_spritesheet_5
+  - first:
+      213: -1443060743219405490
+    second: pagebreak_spritesheet_6
+  - first:
+      213: -6512628442192539593
+    second: pagebreak_spritesheet_7
+  - first:
+      213: 6489266737693894019
+    second: pagebreak_spritesheet_8
+  - first:
+      213: 9183948342636440912
+    second: pagebreak_spritesheet_9
+  - first:
+      213: 3507439280187981707
+    second: pagebreak_spritesheet_10
+  - first:
+      213: 2325136502348401761
+    second: pagebreak_spritesheet_11
+  - first:
+      213: -3020960584631194541
+    second: pagebreak_spritesheet_12
+  - first:
+      213: -8101046819127486778
+    second: pagebreak_spritesheet_13
+  - first:
+      213: -738547878178316118
+    second: pagebreak_spritesheet_14
+  - first:
+      213: -6065172607529277378
+    second: pagebreak_spritesheet_15
+  - first:
+      213: 4143507669834932843
+    second: pagebreak_spritesheet_16
+  - first:
+      213: -7319922331676653758
+    second: pagebreak_spritesheet_17
+  - first:
+      213: -2193328123911615914
+    second: pagebreak_spritesheet_18
+  - first:
+      213: 4655947133953575679
+    second: pagebreak_spritesheet_19
+  - first:
+      213: 3535257907638386731
+    second: pagebreak_spritesheet_20
+  - first:
+      213: 8459211879306914035
+    second: pagebreak_spritesheet_21
+  - first:
+      213: 4293973947560708887
+    second: pagebreak_spritesheet_22
+  - first:
+      213: 3246535587482343990
+    second: pagebreak_spritesheet_23
+  - first:
+      213: 314717895872440674
+    second: pagebreak_spritesheet_24
+  - first:
+      213: 4788760196244198566
+    second: pagebreak_spritesheet_25
+  - first:
+      213: -1117904904392412334
+    second: pagebreak_spritesheet_26
+  - first:
+      213: -4890808103748496887
+    second: pagebreak_spritesheet_27
+  - first:
+      213: 3820006989404055638
+    second: pagebreak_spritesheet_28
+  - first:
+      213: 6157478311298451532
+    second: pagebreak_spritesheet_29
+  - first:
+      213: 846401496734018396
+    second: pagebreak_spritesheet_30
+  - first:
+      213: -2199293187786633245
+    second: pagebreak_spritesheet_31
+  - first:
+      213: 83666743367035178
+    second: pagebreak_spritesheet_32
+  - first:
+      213: -139105121796986169
+    second: pagebreak_spritesheet_33
+  - first:
+      213: -5420523554584052641
+    second: pagebreak_spritesheet_34
+  - first:
+      213: -4776070552789690819
+    second: pagebreak_spritesheet_35
+  - first:
+      213: -1177562514314848915
+    second: pagebreak_spritesheet_36
+  - first:
+      213: -259510083328901121
+    second: pagebreak_spritesheet_37
+  - first:
+      213: 1786797037418431694
+    second: pagebreak_spritesheet_38
+  - first:
+      213: -3338785827771233576
+    second: pagebreak_spritesheet_39
+  - first:
+      213: -4737399680756729673
+    second: pagebreak_spritesheet_40
+  - first:
+      213: -7417831784060134400
+    second: pagebreak_spritesheet_41
+  - first:
+      213: -2666744918583560298
+    second: pagebreak_spritesheet_42
+  - first:
+      213: -8618399283451963603
+    second: pagebreak_spritesheet_43
+  - first:
+      213: -3441169730631573527
+    second: pagebreak_spritesheet_44
+  - first:
+      213: 53127878236523687
+    second: pagebreak_spritesheet_45
+  - first:
+      213: 4808103718100272002
+    second: pagebreak_spritesheet_46
+  - first:
+      213: -8288461194017239818
+    second: pagebreak_spritesheet_47
+  - first:
+      213: -2696016319277432735
+    second: pagebreak_spritesheet_48
+  - first:
+      213: 7389606228019439745
+    second: pagebreak_spritesheet_49
+  - first:
+      213: -5475231087199708374
+    second: pagebreak_spritesheet_50
+  - first:
+      213: -4362309907408925620
+    second: pagebreak_spritesheet_51
+  - first:
+      213: 5814341164237811968
+    second: pagebreak_spritesheet_52
+  - first:
+      213: 6025586564878377593
+    second: pagebreak_spritesheet_53
+  - first:
+      213: -2325309464979027683
+    second: pagebreak_spritesheet_54
+  - first:
+      213: 989387654378315229
+    second: pagebreak_spritesheet_55
+  - first:
+      213: -8097520230355367614
+    second: pagebreak_spritesheet_56
+  - first:
+      213: -834196871956260217
+    second: pagebreak_spritesheet_57
+  - first:
+      213: 1561110959042860072
+    second: pagebreak_spritesheet_58
+  - first:
+      213: -7434839832937225416
+    second: pagebreak_spritesheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25d02bbbb3166570800000000000000
+      internalID: 8459470647081358638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dfbc78aff0b59d0800000000000000
+      internalID: -2784614375903986426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54427144d4c92d1a0800000000000000
+      internalID: -6786189832825134011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f5c23990a6a9430800000000000000
+      internalID: 3790458625742102300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 51
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532c31b5cb4522460800000000000000
+      internalID: 7215422720959562293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 51
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44af417e95d64360800000000000000
+      internalID: 7153639934607205452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d981356e739fbe0800000000000000
+      internalID: -1443060743219405490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730120defee7e95a0800000000000000
+      internalID: -6512628442192539593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385a00167b18e0a50800000000000000
+      internalID: 6489266737693894019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 51
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05de166eb50f37f70800000000000000
+      internalID: 9183948342636440912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f3bde217deca030800000000000000
+      internalID: 3507439280187981707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c45cc645b844020800000000000000
+      internalID: 2325136502348401761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 51
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ce990aa546316d0800000000000000
+      internalID: -3020960584631194541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c61915d6dc439f80800000000000000
+      internalID: -8101046819127486778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa020972e9620c5f0800000000000000
+      internalID: -738547878178316118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 51
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38a9cae5ad24dba0800000000000000
+      internalID: -6065172607529277378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b622e90c542b08930800000000000000
+      internalID: 4143507669834932843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247c6f40c696a6a90800000000000000
+      internalID: -7319922331676653758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65acf5a21bbbf81e0800000000000000
+      internalID: -2193328123911615914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 51
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa0d44004f3d9040800000000000000
+      internalID: 4655947133953575679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b204d2e1652cf0130800000000000000
+      internalID: 3535257907638386731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f86ad9a268256570800000000000000
+      internalID: 8459211879306914035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 27
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b432b0e82479b30800000000000000
+      internalID: 4293973947560708887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a9c8a7ae20e0d20800000000000000
+      internalID: 3246535587482343990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2696fe3424a1e5400800000000000000
+      internalID: 314717895872440674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a45aabc608157240800000000000000
+      internalID: 4788760196244198566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253f50199676c70f0800000000000000
+      internalID: -1117904904392412334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 27
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902187731fb502cb0800000000000000
+      internalID: -4890808103748496887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 27
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65820fa1e14630530800000000000000
+      internalID: 3820006989404055638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 27
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48cd1186e1c37550800000000000000
+      internalID: 6157478311298451532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 27
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ba0364da50fbb00800000000000000
+      internalID: 846401496734018396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 27
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef8a018f7a8a71e0800000000000000
+      internalID: -2199293187786633245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 27
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29e7e5b57e392100800000000000000
+      internalID: 83666743367035178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 27
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca6ad4f0acc11ef0800000000000000
+      internalID: -139105121796986169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c3168db8e66c4b0800000000000000
+      internalID: -5420523554584052641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3654ce032df7bdb0800000000000000
+      internalID: -4776070552789690819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d659279d12578afe0800000000000000
+      internalID: -1177562514314848915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff7c8344f8066cf0800000000000000
+      internalID: -259510083328901121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 27
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4cb0d407afbc810800000000000000
+      internalID: 1786797037418431694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da4692baff3aa1d0800000000000000
+      internalID: -3338785827771233576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b832751710614eb0800000000000000
+      internalID: -4737399680756729673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c5e733b419e0990800000000000000
+      internalID: -7417831784060134400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697bf3520a1ddfad0800000000000000
+      internalID: -2666744918583560298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d275d51938b456880800000000000000
+      internalID: -8618399283451963603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efd0e1bc528e30d0800000000000000
+      internalID: -3441169730631573527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac45f5168fbcb000800000000000000
+      internalID: 53127878236523687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2830a907bd0d9b240800000000000000
+      internalID: 4808103718100272002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc0efb457879fc80800000000000000
+      internalID: -8288461194017239818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16000d41173d59ad0800000000000000
+      internalID: -2696016319277432735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188ec1b66b72d8660800000000000000
+      internalID: 7389606228019439745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b1940d5521404b0800000000000000
+      internalID: -5475231087199708374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c49b07046f573c0800000000000000
+      internalID: -4362309907408925620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0017351bb70b0b050800000000000000
+      internalID: 5814341164237811968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97221fa4e0f2f9350800000000000000
+      internalID: 6025586564878377593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1942139c57dabfd0800000000000000
+      internalID: -2325309464979027683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd506464d20bbd00800000000000000
+      internalID: 989387654378315229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2490124c044df9f80800000000000000
+      internalID: -8097520230355367614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a1e4e5d565c64f0800000000000000
+      internalID: -834196871956260217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82418b8652e2aa510800000000000000
+      internalID: 1561110959042860072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pagebreak_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8332adb309422d890800000000000000
+      internalID: -7434839832937225416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pagebreak_spritesheet_0: 8459470647081358638
+      pagebreak_spritesheet_1: -2784614375903986426
+      pagebreak_spritesheet_10: 3507439280187981707
+      pagebreak_spritesheet_11: 2325136502348401761
+      pagebreak_spritesheet_12: -3020960584631194541
+      pagebreak_spritesheet_13: -8101046819127486778
+      pagebreak_spritesheet_14: -738547878178316118
+      pagebreak_spritesheet_15: -6065172607529277378
+      pagebreak_spritesheet_16: 4143507669834932843
+      pagebreak_spritesheet_17: -7319922331676653758
+      pagebreak_spritesheet_18: -2193328123911615914
+      pagebreak_spritesheet_19: 4655947133953575679
+      pagebreak_spritesheet_2: -6786189832825134011
+      pagebreak_spritesheet_20: 3535257907638386731
+      pagebreak_spritesheet_21: 8459211879306914035
+      pagebreak_spritesheet_22: 4293973947560708887
+      pagebreak_spritesheet_23: 3246535587482343990
+      pagebreak_spritesheet_24: 314717895872440674
+      pagebreak_spritesheet_25: 4788760196244198566
+      pagebreak_spritesheet_26: -1117904904392412334
+      pagebreak_spritesheet_27: -4890808103748496887
+      pagebreak_spritesheet_28: 3820006989404055638
+      pagebreak_spritesheet_29: 6157478311298451532
+      pagebreak_spritesheet_3: 3790458625742102300
+      pagebreak_spritesheet_30: 846401496734018396
+      pagebreak_spritesheet_31: -2199293187786633245
+      pagebreak_spritesheet_32: 83666743367035178
+      pagebreak_spritesheet_33: -139105121796986169
+      pagebreak_spritesheet_34: -5420523554584052641
+      pagebreak_spritesheet_35: -4776070552789690819
+      pagebreak_spritesheet_36: -1177562514314848915
+      pagebreak_spritesheet_37: -259510083328901121
+      pagebreak_spritesheet_38: 1786797037418431694
+      pagebreak_spritesheet_39: -3338785827771233576
+      pagebreak_spritesheet_4: 7215422720959562293
+      pagebreak_spritesheet_40: -4737399680756729673
+      pagebreak_spritesheet_41: -7417831784060134400
+      pagebreak_spritesheet_42: -2666744918583560298
+      pagebreak_spritesheet_43: -8618399283451963603
+      pagebreak_spritesheet_44: -3441169730631573527
+      pagebreak_spritesheet_45: 53127878236523687
+      pagebreak_spritesheet_46: 4808103718100272002
+      pagebreak_spritesheet_47: -8288461194017239818
+      pagebreak_spritesheet_48: -2696016319277432735
+      pagebreak_spritesheet_49: 7389606228019439745
+      pagebreak_spritesheet_5: 7153639934607205452
+      pagebreak_spritesheet_50: -5475231087199708374
+      pagebreak_spritesheet_51: -4362309907408925620
+      pagebreak_spritesheet_52: 5814341164237811968
+      pagebreak_spritesheet_53: 6025586564878377593
+      pagebreak_spritesheet_54: -2325309464979027683
+      pagebreak_spritesheet_55: 989387654378315229
+      pagebreak_spritesheet_56: -8097520230355367614
+      pagebreak_spritesheet_57: -834196871956260217
+      pagebreak_spritesheet_58: 1561110959042860072
+      pagebreak_spritesheet_59: -7434839832937225416
+      pagebreak_spritesheet_6: -1443060743219405490
+      pagebreak_spritesheet_7: -6512628442192539593
+      pagebreak_spritesheet_8: 6489266737693894019
+      pagebreak_spritesheet_9: 9183948342636440912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
