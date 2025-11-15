@@ -1,0 +1,2 @@
+# HajimeKonKoKon
+コンココンコンココンコンコン
