@@ -83,6 +83,8 @@ public class Manager : MonoBehaviour
     private float inputRepeatDuration = 0f;
     private float inputRepeatElapsed = 0f;
 
+    private int prevblockPrefabIndex = 1;
+
     private readonly Block.Type[] ERASE_PATTERNS = new Block.Type[]
     {
         Block.Type.コ,
@@ -151,7 +153,30 @@ public class Manager : MonoBehaviour
 
             case Phase.ブロック出現:
                 {
-                    var go = Instantiate(blockPrefabs[Random.Range(0, blockPrefabs.Length)], blockRoot);
+                    // 前回でたブロックの確立を低くして(1/2)、出現するブロックをランダムで選択
+                    var probabilities = new float[blockPrefabs.Length];
+                    var probabilityMax = 0f;
+                    for (var i=0; i<probabilities.Length; i++)
+                    {
+                        probabilities[i] = prevblockPrefabIndex != i ? 2f : 1f;
+                        probabilityMax += probabilities[i];
+                    }
+                    var blockPrefabIndex = 0;
+                    var probabilitySum = 0f;
+                    var probability = Random.Range(0f, probabilityMax);
+                    for (var i=0; i<probabilities.Length; i++)
+                    {
+                        blockPrefabIndex = i;
+                        probabilitySum += probabilities[i];
+                        if (probabilitySum >= probability)
+                        {
+                            break;
+                        }
+                    }
+
+                    prevblockPrefabIndex = blockPrefabIndex;
+
+                    var go = Instantiate(blockPrefabs[blockPrefabIndex], blockRoot);
                     currentBlock = go.GetComponent<Block>();
                     currentBlockPosition.Set(map.Width / 2, 0);
                     currentBlock.SetPosition(map.GetGrid(currentBlockPosition));
