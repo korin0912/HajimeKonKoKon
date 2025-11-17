@@ -5,6 +5,10 @@ public class VideoController : MonoBehaviour
 {
     [SerializeField] private double loopPoint;
 
+    [SerializeField] private VideoClip localSource;
+
+    [SerializeField] private string webSource;
+
     private bool isPlaying = false;
 
     private VideoPlayer videoPlayer;
@@ -15,6 +19,14 @@ public class VideoController : MonoBehaviour
     {
         videoPlayer = GetComponent<VideoPlayer>();
         videoPlayer.isLooping = false;
+
+#if UNITY_EDITOR
+        videoPlayer.source = VideoSource.VideoClip;
+        videoPlayer.clip = localSource;
+#else
+        videoPlayer.source = VideoSource.Url;
+        videoPlayer.url = webSource;
+#endif
     }
 
     public void Play()

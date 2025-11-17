@@ -43,6 +43,7 @@ public class Manager : MonoBehaviour
     {
         初期化,
         スタート待ち,
+        動画再生待ち,
 
         ブロック出現,
         ブロック落下,
@@ -137,11 +138,9 @@ public class Manager : MonoBehaviour
 
                 startButton.onClick.AddListener(() =>
                 {
-                    startPanel.gameObject.SetActive(false);
-
                     videoController.Play();
 
-                    SetPhase(Phase.ブロック出現);
+                    SetPhase(Phase.動画再生待ち);
                     // SetPhase(Phase.テストパターン_初期化);
                 });
                 SetPhase(Phase.スタート待ち);
@@ -149,6 +148,14 @@ public class Manager : MonoBehaviour
 
             case Phase.スタート待ち:
                 startButtonImage.color = Color.Lerp(startButtonColor1, startButtonColor2, (Mathf.Cos(phaseElapsed * startButtonColorDuration * 2 * Mathf.PI) + 1f) / 2f);
+                break;
+
+            case Phase.動画再生待ち:
+                if (phaseElapsed >= 0.2f)
+                {
+                    startPanel.gameObject.SetActive(false);
+                    SetPhase(Phase.ブロック出現);
+                }
                 break;
 
             case Phase.ブロック出現:

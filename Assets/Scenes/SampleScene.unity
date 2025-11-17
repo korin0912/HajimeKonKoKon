@@ -1525,8 +1525,8 @@ Camera:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 4
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.5377358, g: 0.24096651, b: 0.4932204, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -4840,7 +4840,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1819451715}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: efa809aae21d35542bf795bfe598bd9a, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 8775821072d77b646b6ad7275cd36b53, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 519420031}
@@ -4850,14 +4850,14 @@ VideoPlayer:
   m_TargetMaterialProperty: <noninit>
   m_RenderMode: 0
   m_AspectRatio: 2
-  m_DataSource: 1
+  m_DataSource: 0
   m_TimeUpdateMode: 2
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
   m_TargetAudioSources:
   - {fileID: 0}
   m_DirectAudioVolumes:
-  - 0.2
+  - 0.3
   m_Url: https://korin0912.github.io/HajimeKonKoKon/StreamingAssets/Movie.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
@@ -4896,6 +4896,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::VideoPlayer
   loopPoint: 3.5
+  localSource: {fileID: 32900000, guid: 8775821072d77b646b6ad7275cd36b53, type: 3}
+  webSource: https://korin0912.github.io/HajimeKonKoKon/StreamingAssets/Movie.mp4
 --- !u!1 &1854011085
 GameObject:
   m_ObjectHideFlags: 0
